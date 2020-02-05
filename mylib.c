@@ -12,6 +12,8 @@
 #include "mylib.h"
 #include <math.h>
 
+aanpassingen etc.
+
 //---------------------------------------------------------------------
 //  This function reads the student ID numbers and the corresponding
 //  grades from an ASCII text file with the name [filename].
